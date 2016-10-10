@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC><html><head>
+
+   <title>Mark R. Petersen</title></head>
+
+
+<body bgcolor="#ffffff" text="#000000" link="#003366" alink="#003366" vlink="#003366" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
+
+<table  align="center" width="621" border="0" cellpadding="0" cellspacing="0">
+<tr> <td height="133" valign="top" colspan="8">
+<a href="header.html#index" >
+<img src="f/index/h_index.jpg" width="750" height="190" border="0"></a></td></tr>
+<!-- strip of links at the top -->
+<tr bgcolor="#ffffcc" height=25><td align="center"> 
+<a href="index.html">Home</a>
+</td><td align="center"> 
+<a href="cv.html">CV</a>
+</td><td align="center"> 
+<a href="hypop.html">HyPOP</a>
+</td><td align="center"> 
+<a href="dns.html">DNS</a>
+</td><td align="center"> 
+<a href="lansa.html">LANS-alpha</a>
+</td><td align="center"> 
+<a href="ppd.html">PPD</a>
+</td><td align="center"> 
+<a href="collaborators.html">Collaborators</a>
+</td><td align="center"> 
+<a href="interests.html">Interests</a>
+</td></tr>
+
+
+<!-- change background color here -->
+<tr bgcolor="#e2e2fb">  
+<td valign="top" colspan="8">
+<!-- table within content area for margins around text -->
+<table align="center" width="90%" cellpadding="10"><tbody><tr><td>
+<font face="arial, helvetica, sans serif">
+
+<!-- Start Content Here -->
+<h3>High Resolution Simulations of Compressible Isotropic Turbulence</h3>
+
+Understanding the nature of compressible turbulence is of fundamental importance in many applications, ranging from astrophysics to combustion and aerospace engineering.  Highly compressible turbulence is now thought to control star formation in dense molecular clouds (Mac Low and Klessen, 2004).   The ability to parameterize the effects of turbulence is necessary for the modeling of exothermic reacting flows and high speed flows and is a required ingredient for designing the next generation of ramjet engines and hypersonic vehicles.<br> <br>
+
+There are many differences between compressible turbulence and the more commonly studied incompressible turbulence.  In many applications, such as ocean dynamics and large-scale atmospheric motion, the velocity fluctuations are small compared to the speed of sound, the density is nearly constant, and the irrotational effects are small. However, as the velocity fluctuations become comparable to the sound speed and/or exothermic reactions take place, new phenomena occur: shock waves, localized expansion and contractions providing a distinct dissipation mechanism, new nonlinearities leading to additional scale coupling, and strong fluctuations of the thermodynamic quantities.<br> <br>
+
+We research the nature of compressible turbulence using direct numerical simulation (DNS), where all scales down to the viscous dissipation range are fully resolved (see, e.g., Livescu et al. 2002).   Our simulations use a three-dimensional triply periodic domain with up to 1024<sup>3</sup> grid points, and are by far the highest resolution compressible Navier-Stokes DNS to date. The Taylor Reynolds number is 300 or greater, which is much higher than previous studies.  Each large simulation requires a week of run time using 1024 processors on purple, a supercomputer at Lawrence Livermore National Laboratory.  Preliminary results show that the total energy spectrum follows the Kolmogorov 1941 k<sup>-5/3</sup> law, while the dilatational (compressive) spectrum is steeper than k<sup>-5/3</sup>.  The characteristics of compressibility can be observed in visualizations of pressure and density, where large variability and gradients can be seen.  Shocklets are small, isolated shock waves that occur in these areas, and are thought to be responsible for many of the effects of compressible turbulence (Samtaney et al. 2001).<br> <br>
+
+In order to control the dilatational energy in these simulations, we have developed a new method of forcing for compressible fluid simulations.  Forced simulations inject energy so that the dynamics reach a stationary state where the injection rate (usually at large scales) is equal to the rate of energy dissipated at small scales.  We chose deterministic forcing, because it has more realistic properties than traditional stochastic forcing.  However, deterministic forcing methods developed for incompressible fluids do not apply directly, because the dilatational energy component may grow without bound, resulting in an unstable simulation.  Our new method allows the user to specify the dilatational and solenoidal (incompressible) energy dissipation, as well as the Kolmogorov scale, ensuring that the simulation is stable and well resolved.<br> <br>
+
+The control of the new forcing method allowed us to conduct a large study of Mt- chi parameter space, where Mt is the turbulent Mach number and chi is the ratio of dilatational to solenoidal kinetic energy.  These parameters exhibit the effects of compressibility; low Mt, low chi simulations are nearly incompressible while high Mt, high chi simulations have strong density gradients and shock waves.    Plots of long-time averages of statistics in Mt-chi parameter space show how these quantities vary.  This type of data is useful for developing parameterizations of the effects of compressible turbulence in engineering-scale simulations where the smallest scales are not resolved.  For this study, eighteen simulations with a Taylor Reynolds's number of ~100 were conducted on the San Diego Supercomputer Center's blue gene system.<br> <br>
+
+The next topic in our study of compressible fluids is turbulence-shock interaction.  To this end, we record data from the isotropic simulations and introduce it as an inlet condition in a shock tube domain, where the isotropic turbulence is passed through a shock.  Statistics such as streamwise stress anisotropy, streamwise mass flux, and density-volume correlation, which are useful to modelers focusing on moment closures, are recorded over the shock.  Our study will use shock Mach numbers of 1.2 to 3, turbulent Mach numbers of 0.02 to 0.5, and Taylor Reynolds numbers of 70 to 300.  This range of parameters is much larger than previous studies (Lee et al. 1997, Jamme et al. 2002), and approaches realistic values of physical experiments (Andreopoulos et al. 2000).<br> <br>
+
+References:<br> <br>
+Andreopoulos, Y., Agui, J. H. & Briassulis, G. 2000 Shock wave-turbulence interactions. Annual Review of Fluid Mechanics 32 (1), 309-345.<br> <br>
+Jamme, S., Cazalbou, J.-B., Torres, F. & Chassaing, P. 2002 Direct numerical simulation of the interaction between a shock wave and various types of isotropic turbulence. Flow, Turbulence and Combustion 68, 227-268.<br> <br>
+Lee, S., Lele, S. K. & Moin, P. 1997 Interaction of isotropic turbulence with shock waves: effect of shock strength. Journal of Fluid Mechanics 340, 225-247.<br> <br>
+Livescu, D., Jaberi, F. A. & Madnia, C. K. 2002 The effects of heat release on the energy exchange in reacting turbulent shear  flow. Journal of Fluid Mechanics 450, 35-66.<br> <br>
+Mac Low, M.-M. & Klessen, R. S. 2004 Control of star formation by supersonic turbulence. Rev. Mod. Phys. 76 (1), 125-194.<br> <br>
+Samtaney, R., Pullin, D. I. & Kosovic, B. 2001 Direct numerical simulation of decaying compressible turbulence and shocklet statistics. Physics of Fluids 13, 1415-1430.<br> <br>
+
+
+<!-- End of Content -->
+</font>
+</td></tr></tbody></table> <br>
+
+<center>
+<a href="http://lanl.gov"><img src="f/lanl_logo.gif" border="0"></a>
+</center>
+
+</td></tr></table>
+ </body></html>
+
+

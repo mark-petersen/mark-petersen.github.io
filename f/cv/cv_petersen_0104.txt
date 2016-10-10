@@ -1,0 +1,210 @@
+Mark R. Petersen
+Curriculum Vitae
+January 2004 
+
+*** Contact Information ***
+
+Department of Applied Mathematics
+University of Colorado at Boulder
+Engineering Center ECOT 225
+Boulder CO 80309-0526
+
+voice:  (303) 786-1827 
+fax:    (303) 492-4066 
+e-mail: mark.petersen@colorado.edu
+web:    amath.colorado.edu/student/petersem 
+
+*** Research Interests ***
+
+Investigations of geophysical and astrophysical flows using reduced 
+equations and numerical models; quasi-geostrophic turbulence; planetary 
+formation in protoplanetary disks; numerical methods for parallel climate 
+models; education in science and engineering
+
+*** Education ***
+
+Ph.D. Candidate, Applied Mathematics 
+  (expected graduation: December 2004) GPA:3.97 
+University of Colorado at Boulder
+Dissertation Topic:  
+Study of the Slanted Quasi-Geostrophic Regime and Protoplanetary Disks
+Advisors:  Keith Julien (Applied Math), Jeff Weiss (PAOS), 
+  Glen Stewart (LASP)
+       
+M.S., Atmospheric and Oceanic Science,  2002,  GPA:3.97
+University of Colorado at Boulder
+       
+M.S., Mathematics and Statistics, 2000,  GPA:3.94
+University of Nebraska-Lincoln
+       
+B.S., Environmental Engineering, 1995,  GPA:3.84
+University of Nebraska-Lincoln
+
+*** Professional Experience ***
+
+Graduate student researcher and instructor, 2000-present
+University of Colorado-Boulder, Department of Applied Mathematics
+- Created 3D pseudo-spectral numerical model of slanted quasi-geostrophic
+  regime to investigate vortex merger and alignment, energy cascade, and 
+  vortex formation.
+- Investigation of baroclinic instabilities, Rossby waves, and vortices  
+  that affect planetary formation in protoplanetary disks.  Created 2D 
+  pseudo-spectral numerical model on an annulus.
+- Instructor, Differential Equations and Linear Algebra.
+- Grader and substitute lecturer for graduate fluid dynamics, graduate 
+  atmospheric dynamics.
+
+Mentor and consultant for undergraduate scientist program, 2002-present
+National Center for Atmospheric Research
+- Programming tutor and consultant in Matlab and Fortran for NCAR's 
+  Significant Opportunities in Atmospheric Research and Science (SOARS) 
+  program. (25 participants)
+- Mentor in NCAR's Climate Change Research Section, with Warren Washington
+  2002: 3D visualization of climate model output
+  2003: Wavelet correlations of NCEP reanalysis and climate model output.
+- Research in Bachelors and PhD degrees conferred to underrepresented
+   minorities and women in science and engineering.
+
+Reviewer and proofreader of atmospheric science texts, 2003-present
+- Proofread problems and solutions manual for James R. Holton, 
+  An Introduction to Dynamic Meteorology, 4th ed, all chapters.
+- Reviewed and proofread A Climate Modelling Primer, 3rd ed by 
+  K. McGuffie and A. Henderson-Sellers, two chapters.
+
+Graduate student researcher and instructor, 1998-2000
+University of Nebraska-Lincoln,  Department of Mathematics 
+- Created a numerical model of flow though a reactive porous media.
+- Instructor for intermediate algebra, college algebra, mathematics for
+  elementary school teachers, and calculus recitations.
+
+Project Engineer, Air Pollution Control Systems, 1996-1998
+U.S. Filter/RJ Environmental, San Diego, CA
+- Responsible for Emergency Chlorine Scrubber product line, 
+  including design, fabrication details, and installation. 
+- Trained five new engineers.
+- Designed packed-tower and activated carbon odor control systems.
+
+*** Honors and Awards ***
+
+NSF VIGRE Graduate Student Fellowship, Spring 2002 to Fall 2004
+NASA Summer School for High Performance Computational Earth and 
+  Space Sciences Goddard, Maryland, July 7 to 25, 2003
+Helmholtz Institute for Supercomputational Physics
+  Scientific Supercomputing in Climate Research
+  Potsdam, Germany, August 26 to September 20, 2002
+CU Engineering Excellence Fund co-author, resulted in the successful 
+  acquisition of a 20,000 grant to renovate the Applied Mathematics 
+  Department's computer facility.
+
+*** Publications ***
+Petersen, M.R.: 2004, Musical analysis and synthesis using Matlab. 
+  College Mathematics Journal, accepted December 2003.
+Windham, T., B. Kraus, and M.R. Petersen:  2004,  Striving Towards 
+  Equity; Underrepresented Minorities and Women in Natural Sciences 
+  and Engineering. NSF Alliances for Graduate Education and the 
+  Professoriate (AGEP), January 2004 meeting, 
+  also submitted to Science.
+J.D. Logan, M.R. Petersen, and T.S. Shores: 2002, Numerical study 
+  of reaction-mineralogy-porosity changes in porous media, Applied 
+  Mathematics and Computation, 127, 149-164.
+Rinkol, M., M.R. Petersen, D.D. Schulte, S.B. Verma and D.P. Billesbach
+  2000, A review of the Gaussian plume model in the context of the 
+  agricultural industry. Paper MC 00-118. Mid-Central Meeting of the 
+  ASAE, April 28-29. 19 p.
+Honold, C.U., A. Gronauer, H. Stanzel, M.R. Petersen: 1995,
+  Computergestutzte Flussigmistaus- bringsysteme - Ergebnisse aus 
+  Prufstandsversuchen zur Langs- und Querverteilgenauigkeit. 
+  (Computer based slurry distribution system: Performance of a 
+  test rig for longitudinal and latitudinal accuracy) Landtechnik 
+  (Agricultural Engineering) 50 (5), 276-283.
+Schulte, D.D., R.E. Eigenberg and M.R. Petersen: 1994, Evaluation of 
+  waste management decision making tools, Great Plains Agricultural 
+  Council Publication, 151, 154-160.
+
+*** Papers in Preparation ***
+
+Petersen, M.R., K. Julien, and J.B. Weiss:
+  Numerical experiments of the slanted quasi-geostrophic equation.
+Petersen, M.R., G. Stewart, and K. Julien:
+  A simplified model for Rossby waves in protoplanetary disks.
+
+*** Computer Skills ***
+
+Languages:  Extensive experience in Fortran 77, Fortran 90, and Matlab.  
+  Experience with MPI, Open MP, c and python
+Algorithms: Spectral and pseudospectral methods, fast Fourier transforms, 
+  Runge-Kutta methods.
+
+*** Presentations ***
+
+A Study of Geophysical and Astrophysical Flows using Numerical Models
+Comprehensive Examination, Applied Mathematics Dept, CU-Boulder,
+December 11, 2003
+       
+Numerical Methods in Climate Modeling
+Water Resources Group Seminar, Civil Engineering Dept., CU-Boulder,
+October 22, 2003
+SIAM Student Seminar, Applied Mathematics Dept, CU-Boulder, 
+September 23, 2003
+Graduate Student Seminar, CU Program in Atmospheric and Oceanic Sciences,
+Sept. 19, 2003
+       
+A Parallel Geophysical Fluids Model
+NASA Summer School for High Performance Computational Earth and Space 
+Sciences, Goddard, Maryland,  July 24, 2003
+       
+Verification of a Quasi-Geostrophic Model
+Dynamical Systems Seminar, Applied Mathematics Dept, CU-Boulder,
+March 6, 2003
+       
+Kolmogorov's Two-Thirds Law and the Energy Spectrum
+Graduate Student Seminar, CU Program in Atmospheric and Oceanic Sciences,
+January 31, 2003
+        
+Atmospheric Observations of Kelvin, Rossby, and Inertia-Gravity Waves
+Graduate Student Seminar, CU Program in Atmospheric and Oceanic Sciences,
+October 15, 2002
+        
+A Suite of Quasi-Geostrophic Equations
+Helmholtz Institute for Scientific Supercomputing in Climate Research,
+Potsdam, Germany, September 5, 2002
+       
+Climate Model Visualization using Matlab (90 minute lecture)
+Helmholtz Institute for Scientific Supercomputing in Climate Research,
+Potsdam, Germany, September 6, 2002
+       
+The Slanted Quasi-Geostrophic Equation
+Vigre Symposium, Applied Mathematics Dept, CU-Boulder, July 26, 2002 
+       
+History of the Navier-Stokes Equation
+Graduate Student Seminar, CU Program in Atmospheric and Oceanic Sciences, 
+April 24, 2002 
+SIAM Student Seminar, Applied Mathematics Dept, CU-Boulder, October, 2002
+       
+Atmospheric Dynamics and Numerical Weather Prediction
+Departmental Colloquium, University of Nebraska-Lincoln Mathematics 
+Dept., January 2, 2002 
+SIAM Student Seminar, Applied Mathematics Dept, CU-Boulder, 
+January 17, 2002
+Dynamical Systems Seminar, Applied Mathematics Dept, CU-Boulder,
+January 31, 2002
+
+*** Educational Outreach ***
+
+Fundamentals of Engineering (FE) Examination Mathematics review 
+  instructor April 2003, October 2003.
+Author of Atmospheric Dynamics computer lab for APPM 2350, vector 
+  calculus,  March 2002.
+Mathematics and Music Presentation: Vibrating Strings, pitch, and the 
+  major scale.
+  Fourier Series and Boundary Value Problems, APPM 4350, guest lecturer, 
+    November 18, 2002
+  Summer Institute for Secondary Mathematics Teachers, July 2002, 
+    July 2001
+  CU Women in Engineering Day, March 2, 2002
+  CU High School Honors Institute, July 2001
+  CU Engineering Open House, Oct 2000, Oct 2001
+Boulder County Science Fair Judge, February 6, 2003
+Moderator, National Ocean Sciences Bowl 
+  Cooperative Institute for Research in Environmental Science (CIRES), 
+  Feb 2001, Feb 2002.
