@@ -1,14 +1,14 @@
 ---
 feature_text: |
   ## <span style="color:white">Mark Petersen</span> 
-  <span style="color:white">lilliankay.petersen@gmail.com</span> 
-feature_image: '/pic/sunrise.jpg' 
+  <span style="color:white">mpetersen@lanl.gov</span> 
+feature_image: '/f/Sedona_arch_Lillian_sm.jpg'
 excerpt: "Mark Petersen"
 ---
 
 <table cellpadding="10">
   <tr>
-  <td width="30%" rowspan="2"><img src='/pic/chicken.jpg' width="1500">
+  <td width="30%" rowspan="2"><img src='/f/Petersen_2013_crop.jpg' width="1500">
   </td>
   <td width="10%">
   </td>
@@ -20,8 +20,7 @@ excerpt: "Mark Petersen"
   <td width="10%">
   </td>
   <td width="60%">
-Thanks for visiting my website!
-I am currently a student at Los Alamos High School, and have competed in science fairs and other competitions for the past four years. Last year, I placed third at the Intel International Science and Engineering Fair. I love analyzing big datasets to answer big questions about climate, society, and their interactions. To see more about my projects, check out my other pages!
+I am a climate scientist and ocean model developer for the US Department of Energy at Los Alamos National Laboratory.  I am the lead developer for MPAS-Ocean, an unstructured-mesh global ocean model, and particularly enjoy mentoring scientists and model developers, from post-docs to high school students.
   </td>
   </tr>
 </table>

@@ -1,16 +1,21 @@
 ---
-title: Predicting Food Shortages in Africa from Satellite Imagery
-feature_image: "/pic/peterfied_forest_trees.jpg"
-excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
+title: outreach
+feature_image: "/f/Democrat_family_3_sm.jpg"
+excerpt: "outreach excerpt"
 ---
 
-### Real-Time Crop Predictions for Africa
+### text for link 1
+<a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
+ target="_blank"><img src="/pic/talk_picture.png"
+alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
+
+### text for link 2
 ###### Note: Not all countries are currently in their growing season
 <a href="https://maps.esp.tl/maps/_Crop-Predictions-March-2018/pages/map.jsp?geoMapId=458467&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_predictions_map.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
-### Yearly NDVI Anomalies in Africa
+### text for link 3
 <a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
  target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
@@ -24,3 +29,6 @@ Developing countries often have poor monitoring and reporting of weather and cro
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/africa.pdf">Download PDF</a>
 </iframe>
 </object>
+<p align="right">
+<a href="http://www.hitwebcounter.com">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6931328&style=0006&nbdigits=5&type=ip&initCount=0" title="unique hits since April 2018" border="0" ></a>

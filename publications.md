@@ -1,7 +1,7 @@
 ---
-title: Cirriculum Vitae
-feature_image: "/pic/resevior.jpg"
-excerpt: "CV"
+title: Publications
+feature_image: "/f/Democrat_family_1_sm.jpg"
+excerpt: "publications"
 ---
 
 <object data="/pdf/Petersen_cv_2018_04_12.pdf" type="application/pdf" width="100%" height="1200">

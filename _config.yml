@@ -61,29 +61,28 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Mark Petersen" # Site name or title, also used in jekyll-seo-tag
-logo: "/pic/laptop.png" # Site logo, also used in jekyll-seo-tag
-description: "Mark Petersen analyzes large data sets to answer socially relevant questions. Her research topics include the effects of climate change on crop yields, climate means and extremes in observational data, tracking deforestation, and weather correlations with El Nino. She pulls her data from historical weather observations, crop yields, climate model data, and satellite imagery, and conducts computations with python on the Google Cloud. 
+logo: "/f/home1.png" # Site logo, also used in jekyll-seo-tag
+description: "
+I am a climate scientist and ocean model developer for the US Department of Energy at Los Alamos National Laboratory.  I am the lead developer for MPAS-Ocean, an unstructured-mesh global ocean model, and particularly enjoy mentoring scientists and model developers, from post-docs to high school students.
 " # Site description and default description, also used in jekyll-seo-tag
-url: "https://lillianpetersen.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://mark-petersen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/lillianpetersen/alembic"
-email: "lilliankay.petersen@gmail.com"
+repo: "https://github.com/mark-petersen/alembic"
+email: "mpetersen@lanl.gov"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "/pic/crop2.png" # note: could put avatar on gravitar website.
+avatarurl: "/f/crop2.png" # note: could put avatar on gravitar website.
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-  Bio: /bio/
-  CV: /CV/
-  Africa: /africa_satellite/
-  Crops: /americas_ff/
-  Climate Extremes: /detecting_cc/
-  El Nino: /el_nino/
-
+#  Home: /
+  Publications: /publications/
+  Research: /research/
+  Outreach: /outreach/
+  Interests: /interests/
+  Classic: /classic/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  GitHub: https://github.com/lillianpetersen
+  GitHub: https://github.com/mark-petersen
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
