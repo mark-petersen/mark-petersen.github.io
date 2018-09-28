@@ -61,7 +61,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Mark Petersen" # Site name or title, also used in jekyll-seo-tag
-logo: "/f/home2.png" # Site logo, also used in jekyll-seo-tag
+logo: "/f/home_42x42.png" # Site logo, also used in jekyll-seo-tag
 description: "
 I am a climate scientist and ocean model developer for the US Department of Energy at Los Alamos National Laboratory.  I am the lead developer for MPAS-Ocean, an unstructured-mesh global ocean model, and particularly enjoy mentoring scientists and model developers, from post-docs to high school students.
 " # Site description and default description, also used in jekyll-seo-tag
@@ -75,8 +75,8 @@ avatarurl: "/f/crop2.png" # note: could put avatar on gravitar website.
 # 8. Site navigation
 navigation_header:
 #  Home: /
-  Publications: /Publications/
-  Research: /Research/
+  Publications: /publications/
+  Research: /research/
   Outreach: /outreach/
   Interests: /interests/
   Classic: /classic/
