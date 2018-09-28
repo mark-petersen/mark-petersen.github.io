@@ -1,7 +1,7 @@
 ---
-title: interests
+title: Interests
 feature_image: "/f/Sedona_Mark_Michael_3_sm.jpg"
-excerpt: "interests excerpt"
+excerpt: "Interests excerpt"
 ---
 
 ### text for link 1

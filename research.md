@@ -1,5 +1,5 @@
 ---
-title: research
+title: Research
 feature_image: "/f/Sedona_Lillian_Michael_1_sm.jpg"
 excerpt: "research excerpt"
 ---

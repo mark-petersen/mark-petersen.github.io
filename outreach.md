@@ -1,5 +1,5 @@
 ---
-title: outreach
+title: Outreach
 feature_image: "/f/Democrat_family_3_sm.jpg"
 excerpt: "outreach excerpt"
 ---
