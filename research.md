@@ -9,10 +9,32 @@ excerpt: "research"
 <p>E3SM can be run in configurations that include ocean circulation within cavities below ice shelves so that these processes may be modeled explicitly, compared against observations, and then used in a predictive sense. This will lead to a better understanding of the potential for long-term changes in ocean circulation, ice shelf destabilization and sea level rise.</p> 
 
 ### Documentary Movies
+<table border="10" cellpadding="10" cellspacing="10" align="left">
+<tr>
+<td>
 <a href="https://vimeo.com/163052839"
- target="_blank"><img src="f/ocean_currents_and_climate_change.jpg"
+ target="_blank"><img src="/f/ocean_currents_and_climate_change.jpg"
  alt="Ocean currents and climate change" width="1212" height="682" border="10" /></a>
-
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=8Df96rx3i9g&t=11s"
+ target="_blank"><img src="/f/E3SM_screenshot.jpg"
+ alt="E3SM overview" width="1280" height="684" border="10" /></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://vimeo.com/163052839"
+ target="_blank"><img src="/f/ocean_currents_and_climate_change.jpg"
+ alt="Ocean currents and climate change" width="1212" height="682" border="10" /></a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=8Df96rx3i9g&t=11s"
+ target="_blank"><img src="/f/E3SM_screenshot.jpg"
+ alt="E3SM overview" width="1280" height="684" border="10" /></a>
+</td>
+</tr>
+</table>
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
