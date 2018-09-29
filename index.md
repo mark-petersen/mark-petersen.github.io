@@ -33,3 +33,7 @@ I am a climate scientist and ocean model developer for the US Department of Ener
 
   gtag('config', 'UA-117564648-1');
 </script>
+
+<p align="right">
+<a href="http://www.hitwebcounter.com">
+<img src="http://hitwebcounter.com/counter/counter.php?page=6997906&style=0006&nbdigits=4&type=ip&initCount=0" title="unique hits since October 2018" border="0"></a>
