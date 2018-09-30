@@ -6,21 +6,21 @@ excerpt: "publications"
 <table border="0" cellpadding="0" cellspacing="0" align="left">
   <tr>
 <td><img src="/f/google_scholar.png" height="42" width="42"/></td>
-<td><a href="https://scholar.google.com/citations?user=CSLnTBUAAAAJ&hl=en">
+<td><a href="https://scholar.google.com/citations?user=CSLnTBUAAAAJ&hl=en" target="_blank">
 Google Scholar: ordered by citation</a></td>
   </tr>
   <tr>
 <td><img src="/f/google_scholar.png" height="42" width="42"/></td>
-<td><a href="https://scholar.google.com/citations?hl=en&user=CSLnTBUAAAAJ&view_op=list_works&sortby=pubdate">
+<td><a href="https://scholar.google.com/citations?hl=en&user=CSLnTBUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
 Google Scholar: ordered by date</a></td>
   </tr>
   <tr>
 <td><img src="/f/orcid.png" height="42" width="42"/></td>
-<td><a href="https://orcid.org/0000-0001-7170-7511">OrcID</a></td>
+<td><a href="https://orcid.org/0000-0001-7170-7511" target="_blank">OrcID</a></td>
   </tr>
   <tr>
 <td><img src="/f/researchGate.png" height="42" width="42"/></td>
-<td><a href="https://www.researchgate.net/profile/Mark_Petersen4/publications">ResearchGate</a></td>
+<td><a href="https://www.researchgate.net/profile/Mark_Petersen4/publications" target="_blank">ResearchGate</a></td>
   </tr>
 
 </table>
