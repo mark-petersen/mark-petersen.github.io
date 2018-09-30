@@ -1,10 +1,13 @@
 ---
-title: classic
+title: Classic
 feature_image: "/f/Democrat_family_5_sm.jpg"
 excerpt: "classic excerpt"
 ---
 
-### Prepare to be teleported back in time!
+### Prepare to teleport back in time!
+<a href="/old_2004"
+ target="_blank"><img src="/f/tardis.jpg"
+ alt="Back to 2005" width="480" height="720" border="10" /></a>
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
