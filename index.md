@@ -26,7 +26,7 @@ I am a climate scientist and ocean model developer for the US Department of Ener
 </table>
 
 <b><big>Bio:</big></b>
-Mark Petersen works at the intersection of applied mathematics, oceanography, and high performance computing.  He has been responsible, with others, for MPAS-Ocean development from its inception in 2010, and added new capability so that MPAS-Ocean could simulate ocean flows below ice shelves.  His daily work includes designing algorithms, maintaining code, model verification and validation, computational performance, and analyzing output.  Mark received a PhD in applied mathematics from the University of Colorado at Boulder, and joined Los Alamos National Laboratory in 2005.  He enjoys playing music, running, and camping with his family in the mountains of New Mexico.
+Mark Petersen works at the intersection of applied mathematics, oceanography, and high performance computing.  He has been responsible, with others, for MPAS-Ocean development from its inception in 2010.  His daily work includes designing algorithms, maintaining code, model verification and validation, computational performance, analyzing output, and scientific publications.  Mark received a PhD in applied mathematics from the University of Colorado at Boulder, and joined Los Alamos National Laboratory in 2005.  He enjoys playing music, running, and camping with his family in the mountains of New Mexico.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-117564648-1"></script>
