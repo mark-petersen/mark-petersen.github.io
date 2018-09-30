@@ -7,7 +7,7 @@ excerpt: "classic excerpt"
 ### Prepare to teleport back in time!
 <a href="/old_2004"
  target="_blank"><img src="/f/tardis.jpg"
- alt="Back to 2005" width="480" height="720" border="10" /></a>
+ alt="Back to 2004" width="480" height="720" border="10" /></a>
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
