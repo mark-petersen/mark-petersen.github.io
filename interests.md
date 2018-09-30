@@ -60,6 +60,16 @@ References:
 New York: The American Language Academy, 1986. 
 2. <a href="https://en.wikipedia.org/wiki/SoundSpel" target="_blank">SoundSpel</a>, Wikipedia
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117564648-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117564648-5');
+</script>
+
 <p align="right">
 <a href="http://www.hitwebcounter.com">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6998017&style=0006&nbdigits=4&type=ip&initCount=0" title="unique hits since October 2018" border="0"></a>

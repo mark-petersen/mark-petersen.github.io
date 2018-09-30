@@ -5,7 +5,7 @@ excerpt: "classic excerpt"
 ---
 
 ### Prepare to teleport back in time!
-<a href="/old_2004"
+<a href="/classic_2004"
  target="_blank"><img src="/f/tardis.jpg"
  alt="Back to 2004" width="480" height="720" border="10" /></a>
 

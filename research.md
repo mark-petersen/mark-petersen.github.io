@@ -66,6 +66,16 @@ excerpt: "research"
 </tr>
 </table>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117564648-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117564648-3');
+</script>
+
 <p align="right">
 <a href="http://www.hitwebcounter.com">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6998015&style=0006&nbdigits=4&type=ip&initCount=0" title="unique hits since October 2018" border="0"></a>
