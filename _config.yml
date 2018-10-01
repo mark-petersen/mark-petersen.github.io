@@ -60,18 +60,17 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Mark Petersen" # Site name or title, also used in jekyll-seo-tag
+title: "Mark R. Petersen" # Site name or title, also used in jekyll-seo-tag
 logo: "/f/home_42x42.png" # Site logo, also used in jekyll-seo-tag
 octocat: "/f/Octocat_51x42.png" # Site logo, also used in jekyll-seo-tag
 description: "
-I am a climate scientist and ocean model developer for the US Department of Energy at Los Alamos National Laboratory.  I am the lead developer for MPAS-Ocean, an unstructured-mesh global ocean model, and particularly enjoy mentoring scientists and model developers, from post-docs to high school students.
 " # Site description and default description, also used in jekyll-seo-tag
 url: "https://mark-petersen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/mark-petersen/alembic"
 email: "mpetersen@lanl.gov"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "/f/crop2.png" # note: could put avatar on gravitar website.
+avatarurl: "/f/ocean_wave_icon.jpg" # note: could put avatar on gravitar website.
 
 # 8. Site navigation
 navigation_header:
