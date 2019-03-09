@@ -19,6 +19,11 @@ Google Scholar: ordered by date</a></td>
 <td><a href="https://orcid.org/0000-0001-7170-7511" target="_blank">OrcID</a></td>
   </tr>
   <tr>
+<td><img src="/f/publon_logo.png" height="42" width="42"/></td>
+<td><a href="https://publons.com/researcher/1617877/mark-petersen/peer-review" target="_blank">
+Publons: Review history</a></td>
+  </tr>
+  <tr>
 <td><img src="/f/researchGate.png" height="42" width="42"/></td>
 <td><a href="https://www.researchgate.net/profile/Mark_Petersen4/publications" target="_blank">ResearchGate</a></td>
   </tr>
