@@ -1,6 +1,6 @@
 ---
 title: Publications
-feature_image: "/f/Democrat_family_1_sm.jpg"
+feature_image: '/f/Yellowstone_Theo_191028e.jpg'
 excerpt: "publications"
 ---
 <table border="0" cellpadding="0" cellspacing="0" align="left">

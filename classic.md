@@ -1,6 +1,6 @@
 ---
 title: Classic
-feature_image: "/f/Sedona_arch_Lillian_sm.jpg"
+feature_image: "/f/Democrat_family_1_sm.jpg"
 excerpt: "classic excerpt"
 ---
 
