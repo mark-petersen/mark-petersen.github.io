@@ -2,7 +2,7 @@
 feature_text: |
   ## <span style="color:white">Mark R. Petersen</span> 
   <span style="color:white">mpetersen@lanl.gov</span> 
-feature_image: '/f/Sedona_arch_Lillian_sm.jpg'
+feature_image: '/f/Yellowstone_Theo_191028e.jpg'
 excerpt: "Mark Petersen"
 ---
 
