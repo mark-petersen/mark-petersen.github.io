@@ -65,7 +65,7 @@ logo: "/f/home_42x42.png" # Site logo, also used in jekyll-seo-tag
 octocat: "/f/Octocat_51x42.png" # Site logo, also used in jekyll-seo-tag
 description: "
 " # Site description and default description, also used in jekyll-seo-tag
-url: "https://mark-petersen.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://mark-petersen.github.io/home" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/mark-petersen/mark-petersen.github.io"
 email: "mpetersen@lanl.gov"
