@@ -67,14 +67,14 @@ description: "
 " # Site description and default description, also used in jekyll-seo-tag
 url: "https://mark-petersen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/mark-petersen/alembic"
+repo: "https://github.com/mark-petersen/mark-petersen.github.io"
 email: "mpetersen@lanl.gov"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/f/ocean_wave_icon.jpg" # note: could put avatar on gravitar website.
 
 # 8. Site navigation
 navigation_header:
-#  Home: /
+#  Home: /home/
   Publications: /publications/
   Research: /research/
   Outreach: /outreach/
