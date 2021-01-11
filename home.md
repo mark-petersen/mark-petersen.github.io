@@ -5,7 +5,6 @@ feature_text: |
 feature_image: "/f/Sedona_arch_Lillian_sm.jpg"
 excerpt: "Mark Petersen"
 ---
-<meta http-equiv="Refresh" content="0; url=//mark-petersen.github.io/home" />
 <table cellpadding="10">
   <tr>
   <td width="30%" rowspan="2"><img src='/f/Petersen_2013_crop.jpg' width="1500">
