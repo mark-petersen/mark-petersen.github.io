@@ -29,7 +29,7 @@ This Simpified Spelling translator uses the SoundSpel system, which has origins 
     tough, phone, city, judge, gorgeous\\
     → tuf, foen, sity, juj, gorjus
 
-A few other sounds, rules, and exeptions (refs 1,2) will be obvious to the reader. This results in a spelling system with nearly one-to-one correspondence between sounds and spelling. For example:
+A few other sounds, rules, and exceptions (refs 1,2) will be obvious to the reader. This results in a spelling system with nearly one-to-one correspondence between sounds and spelling. For example:
 
 hat, have, laugh, plaid \\
 → hat, hav, laf, plad
